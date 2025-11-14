@@ -1,4 +1,4 @@
-# Breast Cancer Classification (Machine Learning)
+# Breast Cancer Detection (Machine Learning)
 
 This project uses various machine learning algorithms such as:
 - Logistic Regression
